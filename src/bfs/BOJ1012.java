@@ -3,7 +3,7 @@ package bfs;
 import java.io.*;
 import java.util.*;
 
-public class boj1012 {
+public class BOJ1012 {
     /**
      * 1. 아이디어
      * - T : 테스트 케이스 수만큼 반복

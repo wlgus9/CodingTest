@@ -3,7 +3,7 @@ package dfs;
 import java.io.*;
 import java.util.*;
 
-public class boj2606 {
+public class BOJ2606 {
     /**
      * 1. 아이디어
      * - 이중 for문 : 값 == 1 && 방문x => DFS

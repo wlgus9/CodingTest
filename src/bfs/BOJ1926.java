@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class boj1926 {
+public class BOJ1926 {
     /**
      * 1. 아이디어
      * - 이중 for문 : 값 == 1 && 방문x => BFS
